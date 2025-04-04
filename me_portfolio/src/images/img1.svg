@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <circle cx="250" cy="250" r="250" fill="#212121"/>
+  <circle cx="250" cy="180" r="90" fill="#ff4f47"/>
+  <rect x="120" y="280" width="260" height="180" rx="20" fill="#ff4f47"/>
+  <text x="250" y="400" font-family="Arial" font-size="50" font-weight="bold" text-anchor="middle" fill="white">RM</text>
+</svg> 
