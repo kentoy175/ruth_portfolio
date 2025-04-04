@@ -16,4 +16,16 @@ export default defineConfig({
       },
     },
   },
+  server: {
+    cors: {
+      origin: '*',
+    },
+    headers: {
+      'Access-Control-Allow-Origin': '*',
+    },
+    hmr: {
+      clientPort: 443,
+    },
+    allowedHosts: 'all',
+  }
 }) 

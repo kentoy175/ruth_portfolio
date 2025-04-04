@@ -16,6 +16,6 @@ export default defineConfig({
     watch: {
       usePolling: true,
     },
-    allowedHosts: ['localhost', 'https://ruth-portfolio.onrender.com']
+    allowedHosts: ['localhost', '.onrender.com', 'ruth-portfolio.onrender.com']
   },
 })
